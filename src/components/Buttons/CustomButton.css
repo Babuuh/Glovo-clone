@@ -1,0 +1,19 @@
+.custom-btn {
+    font-weight: 700;
+    text-decoration: none;
+    padding: 15px 30px;
+    color: #fff;
+    background-color: #00a082;
+    font-size: 14px;
+    border-radius: 100px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 3px 5px 0 rgb(0 0 0 / 10%);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin: 0 auto;
+    box-sizing: border-box;
+}

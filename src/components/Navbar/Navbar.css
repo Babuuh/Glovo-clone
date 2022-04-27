@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #ffc244;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+.logo{
+    margin-left: 40px;
+}
+
+.logo > img {
+    transform: scale(0.7);
+    
+}
+.nav-btn{
+    margin-right: 70px;
+}
